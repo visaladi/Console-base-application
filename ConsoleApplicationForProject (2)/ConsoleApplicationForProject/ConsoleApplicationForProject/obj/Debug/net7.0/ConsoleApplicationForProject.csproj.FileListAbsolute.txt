@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\obj\Debug\net7.0\ConsoleApplicationForProject.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\obj\Debug\net7.0\ConsoleApplicationForProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\obj\Debug\net7.0\ConsoleApplicationForProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\obj\Debug\net7.0\ConsoleApplicationForProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\obj\Debug\net7.0\ConsoleApplicationForProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\bin\Debug\net7.0\ConsoleApplicationForProject.exe
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\bin\Debug\net7.0\ConsoleApplicationForProject.deps.json
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\bin\Debug\net7.0\ConsoleApplicationForProject.runtimeconfig.json
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\bin\Debug\net7.0\ConsoleApplicationForProject.dll
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\bin\Debug\net7.0\ConsoleApplicationForProject.pdb
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\obj\Debug\net7.0\ConsoleApplicationForProject.dll
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\obj\Debug\net7.0\refint\ConsoleApplicationForProject.dll
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\obj\Debug\net7.0\ConsoleApplicationForProject.pdb
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\obj\Debug\net7.0\ConsoleApplicationForProject.genruntimeconfig.cache
+C:\Users\Asus\Desktop\3rd sem\ConsoleApplicationForProject\ConsoleApplicationForProject\obj\Debug\net7.0\ref\ConsoleApplicationForProject.dll
